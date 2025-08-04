@@ -12,7 +12,6 @@ An Arduino-based Braille keyboard system that converts Braille input into audibl
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [Contributors](#-contributors)
-- [License](#-license)
 
 ## ✨ Features
 - Dual input mode (Braille & numbers)
@@ -61,8 +60,8 @@ This project requires the following Arduino libraries:
 ## 👥 Contributors
 - **Raadmir** - Software implementation & Braille logic
 - **Azat** - Hardware design & circuit implementation
-- Dastan ME
-- Sergali ME
+- Dastan ME implementation Design
+- Sergali Create presentation
 
 ## 📖 Additional Resources
 [Project Presentation](https://www.canva.com/design/DAGC9wCBmbM/c-X1iLkpuYKiIMLYsMUl0Q/edit)
